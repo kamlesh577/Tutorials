@@ -17,7 +17,7 @@ Linux Tutorials
 
 For Beginners -  https://www.youtube.com/watch?v=YHFzr-akOas&list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As
 
-For Intermediate -Linux IPCs,Sockets,Multithreading
+For Intermediate -Linux OS Concepts , IPCs, Sockets, Multithreading
 
 For Advanced   - Embedded Linux
 
