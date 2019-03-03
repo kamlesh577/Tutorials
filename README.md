@@ -31,3 +31,7 @@ https://www.coursera.org/learn/real-time-systems/home/welcome
 IOT
 
 https://courses.edx.org/courses/course-v1:WasedaX+IoT111x+3T2018/course/
+
+AI for Robotics
+
+https://classroom.udacity.com/courses/cs373/lessons/48739381/concepts/487350240923
