@@ -1,5 +1,5 @@
 # Tutorials
-This repository Contains Tutorials for Semiconducter Engineer
+This repository Contains Tutorials for Semiconducter/Electronics Engineer
 
 Mbed ARM tutorials
 
