@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=R6SstBoXjKc&list=PL6PplMTH29SHgRPDufZhfMRoFwRAIr
 https://www.youtube.com/watch?v=EX7g3_NUDgk&list=PLmY3zqJJdVeNIZ8z_yw7Db9ej3FVG0iLy
 
 
-Linux Tutorials
+Linux Tutorials:
 
 For Beginners -  https://www.youtube.com/watch?v=YHFzr-akOas&list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As
 
